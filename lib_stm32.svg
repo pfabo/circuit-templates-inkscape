@@ -1,0 +1,1747 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created by sK1 2.0rc4 (https://sk1project.net/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="190.2635mm"
+   viewBox="0 0 166.69606 539.32961"
+   width="58.806667mm"
+   version="1.1"
+   id="94d3b45c-a4f0-11ea-811c-84a93e78d292"
+   sodipodi:docname="lib_stm32.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:export-filename="/home/pf/ownCloud/Notebooks/Work-MCU/700_mcu/img/lib_stm32.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
+  <metadata
+     id="metadata1869">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs1867">
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker3077"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3075"
+         style="fill:#ffaaaa;fill-opacity:1;fill-rule:evenodd;stroke:#2d2c2b;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker33771"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#ffaaaa;fill-opacity:1;fill-rule:evenodd;stroke:#2d2c2b;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path33769"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mstart"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path10640"
+         style="fill:#668000;fill-opacity:1;fill-rule:evenodd;stroke:#668000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker20185"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path20183"
+         style="fill:#668000;fill-opacity:1;fill-rule:evenodd;stroke:#668000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker19913"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path19911"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker16024"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:collect="always">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path16022"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker13454"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path13452"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Lend"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path10637"
+         style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Blur"
+       id="filter16666">
+      <feGaussianBlur
+         stdDeviation="1 1"
+         result="blur"
+         id="feGaussianBlur16664" />
+    </filter>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker16678-2"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path16676-1"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker16678-6"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path16676-9"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)" />
+    </marker>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Blur"
+       id="filter16666-9">
+      <feGaussianBlur
+         stdDeviation="1 1"
+         result="blur"
+         id="feGaussianBlur16664-2" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Blur"
+       id="filter16666-9-0">
+      <feGaussianBlur
+         stdDeviation="1 1"
+         result="blur"
+         id="feGaussianBlur16664-2-6" />
+    </filter>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker16678-62"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path16676-2"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker16678-6-1"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path16676-9-3"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker16678-6-1-7"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path16676-9-3-1"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mstart-6"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path10640-1"
+         style="fill:#668000;fill-opacity:1;fill-rule:evenodd;stroke:#668000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker20185-0"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path20183-5"
+         style="fill:#ffaaaa;fill-opacity:1;fill-rule:evenodd;stroke:#2d2c2b;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mstart-6-3"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path10640-1-4"
+         style="fill:#668000;fill-opacity:1;fill-rule:evenodd;stroke:#668000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker20185-0-2"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path20183-5-4"
+         style="fill:#668000;fill-opacity:1;fill-rule:evenodd;stroke:#668000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5745"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path5743"
+         style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow1Send"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Send">
+      <path
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path2255"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker3519"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path3517"
+         style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker2697"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path2695"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow2Send"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Send">
+      <path
+         transform="matrix(-0.3,0,0,-0.3,0.69,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#ffaaaa;fill-opacity:1;fill-rule:evenodd;stroke:#2d2c2b;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path2273"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow2Lend-0"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#f9f9f9;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path2261"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Blur"
+       id="filter16666-0">
+      <feGaussianBlur
+         stdDeviation="1 1"
+         result="blur"
+         id="feGaussianBlur16664-6" />
+    </filter>
+    <marker
+       inkscape:stockid="Arrow2Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mstart-6-3-9"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path10640-1-4-1"
+         style="fill:#668000;fill-opacity:1;fill-rule:evenodd;stroke:#668000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker20185-0-2-1"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path20183-5-4-9"
+         style="fill:#668000;fill-opacity:1;fill-rule:evenodd;stroke:#668000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mstart-5"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path10640-0"
+         style="fill:#668000;fill-opacity:1;fill-rule:evenodd;stroke:#668000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker20185-9"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path20183-9"
+         style="fill:#668000;fill-opacity:1;fill-rule:evenodd;stroke:#668000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker18212-0-6-8"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:collect="always">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#668000;fill-opacity:1;fill-rule:evenodd;stroke:#668000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path18210-1-3-5" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-3-5-5"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         inkscape:connector-curvature="0"
+         id="path10643-6-9-9"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker16024-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:collect="always">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path16022-6" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10000"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1925"
+     inkscape:window-height="1283"
+     id="namedview1865"
+     showgrid="true"
+     units="mm"
+     inkscape:document-units="mm"
+     inkscape:zoom="3.720202"
+     inkscape:cx="98.382414"
+     inkscape:cy="335.18766"
+     inkscape:window-x="2660"
+     inkscape:window-y="122"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="94d3b45c-a4f0-11ea-811c-84a93e78d292"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid7726"
+       units="mm"
+       spacingx="1.4173228"
+       spacingy="1.4173228"
+       originx="-663.69251"
+       originy="-35.007919" />
+  </sodipodi:namedview>
+  <g
+     transform="matrix(0.08399263,0,0,0.0642655,79.795204,-30.194509)"
+     id="layer1"
+     inkscape:label="Ebene 1"
+     style="fill:#d7eef4"
+     inkscape:export-xdpi="300"
+     inkscape:export-ydpi="300"
+     inkscape:export-filename="/home/pf/ownCloud/Notebooks/Work-MCU/700_mcu/img/modul_dma_pwm_01.png">
+    <path
+       inkscape:label="#filling"
+       id="filling"
+       transform="translate(142.29523,469.84764)"
+       d="M 455.53125,5 C 401.0381,5.369935 347.29062,30.141509 328.625,75.09375 237.37305,-46.091419 36.667347,67.638813 94.90625,188.90625 -43.202605,163.26816 -11.482887,386.4761 117.375,364.71875 c 55.32456,57.59304 140.17526,67.00709 232,26.28125 h 0.0625 C 460.44611,431.416 556.99588,401.28964 600.53125,370.4375 861.81446,438.61256 767.83517,21.18659 596.375,130.09375 595.03643,43.363367 524.686,4.5305325 455.53125,5 Z"
+       style="fill:#d7eef4;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
+    <path
+       sodipodi:nodetypes="cccccccccccc"
+       inkscape:connector-curvature="0"
+       id="outline"
+       d="m 470.91811,544.94223 c 44.24444,-106.55346 285.63354,-99.69979 266.71711,76.68751 m 1.03771,-21.69172 c 171.46017,-108.90716 265.43737,308.50861 4.15416,240.33355 m 16.53351,-14.42319 c -31.75604,36.10817 -153.16541,87.92194 -292.20644,24.98419 m 24.50594,10.0029 C 399.83536,901.56131 315.00594,892.15914 259.68138,834.5661 m 23.89327,-6.54519 C 135.16728,883.64077 90.90132,631.59179 237.19048,658.74845 m 12.56211,20.7809 C 150.10737,543.60092 401.52492,400.87785 486.70701,570.57509"
+       style="fill:#d7eef4;stroke:#515151;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:6.32125998px;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.75;stroke-opacity:1"
+     x="126.78042"
+     y="19.508049"
+     id="text7730-5-3-1-9-2-3"
+     inkscape:export-xdpi="300"
+     inkscape:export-ydpi="300"
+     inkscape:export-filename="/home/pf/ownCloud/Notebooks/Work-MCU/700_mcu/img/modul_dma_pwm_01.png"><tspan
+       sodipodi:role="line"
+       x="126.78042"
+       y="19.508049"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:6.32125998px;font-family:Arial;-inkscape-font-specification:'Arial, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ff0000;stroke:none;stroke-width:0.75;stroke-opacity:1"
+       id="tspan3933-9">IRQHandler</tspan></text>
+  <path
+     style="opacity:1;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.85039371;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1.70078749, 3.40157497;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker16024);paint-order:normal"
+     d="m 37.882244,21.581654 c 22.67716,-5.669292 24.09448,4.251968 53.85826,-2.834646"
+     id="path10614"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cc"
+     inkscape:export-xdpi="300"
+     inkscape:export-ydpi="300"
+     inkscape:export-filename="/home/pf/ownCloud/Notebooks/Work-MCU/700_mcu/img/modul_dma_pwm_01.png" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
+     x="51.094563"
+     y="17.106842"
+     id="text7730-5-3-1-9-5"
+     inkscape:export-xdpi="300"
+     inkscape:export-ydpi="300"
+     inkscape:export-filename="/home/pf/ownCloud/Notebooks/Work-MCU/700_mcu/img/modul_dma_pwm_01.png"><tspan
+       sodipodi:role="line"
+       id="tspan7728-2-0-5-2-7"
+       x="51.094563"
+       y="17.106842"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:Arial;-inkscape-font-specification:'Arial Italic';fill:#ff0000;stroke-width:0.75">Interrupt</tspan></text>
+  <rect
+     style="opacity:1;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.85039371;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+     id="rect3948-8"
+     width="49.606312"
+     height="21.259842"
+     x="30.795614"
+     y="149.1407"
+     ry="5.669302"
+     inkscape:export-xdpi="300"
+     inkscape:export-ydpi="300"
+     inkscape:export-filename="/home/pf/ownCloud/Notebooks/Work-MCU/700_mcu/img/modul_dma_pwm_01.png"
+     rx="0" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
+     x="30.644674"
+     y="147.75203"
+     id="text7730-5-3-1-9-9-2"
+     inkscape:export-xdpi="300"
+     inkscape:export-ydpi="300"
+     inkscape:export-filename="/home/pf/ownCloud/Notebooks/Work-MCU/700_mcu/img/modul_dma_pwm_01.png"><tspan
+       sodipodi:role="line"
+       id="tspan7728-2-0-5-2-1-7"
+       x="30.644674"
+       y="147.75203"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:'Arial Italic';stroke-width:0.75">TIM6</tspan></text>
+  <g
+     id="g2779"
+     transform="translate(-663.69253,-63.457732)">
+    <rect
+       inkscape:export-filename="/home/pf/ownCloud/Notebooks/Work-MCU/700_mcu/img/modul_dma_pwm_01.png"
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       ry="2.834631"
+       y="113.38584"
+       x="694.48816"
+       height="14.173207"
+       width="21.25984"
+       id="rect3913-4-52"
+       style="opacity:1;fill:#ffeeaa;fill-opacity:1;stroke:#ff6600;stroke-width:0.85039365;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+    <text
+       inkscape:export-filename="/home/pf/ownCloud/Notebooks/Work-MCU/700_mcu/img/modul_dma_pwm_01.png"
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       id="text7730-5-3-1-9-2-6-0"
+       y="124.00517"
+       x="704.85931"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:6.32125998px;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan3933-7-2"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:6.32125998px;font-family:Arial;-inkscape-font-specification:'Arial, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.75;stroke-opacity:1"
+         y="124.00517"
+         x="704.85931"
+         sodipodi:role="line">:10</tspan></text>
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
+     x="58.757954"
+     y="59.888775"
+     id="text7730-5-3-1-9-5-1-6-9"
+     inkscape:export-xdpi="300"
+     inkscape:export-ydpi="300"
+     inkscape:export-filename="/home/pf/ownCloud/Notebooks/Work-MCU/700_mcu/img/modul_dma_pwm_01.png"><tspan
+       sodipodi:role="line"
+       id="tspan7728-2-0-5-2-7-6-0-9"
+       x="58.757954"
+       y="59.888775"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.99999952px;font-family:Arial;-inkscape-font-specification:'Arial Italic';fill:#ff0000;stroke-width:0.75">Prescaler</tspan></text>
+  <g
+     id="g2829"
+     transform="translate(-649.51931,-28.024664)">
+    <rect
+       inkscape:export-filename="/home/pf/ownCloud/Notebooks/Work-MCU/700_mcu/img/modul_dma_pwm_01.png"
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       ry="2.834631"
+       y="99.212616"
+       x="680.31494"
+       height="14.173222"
+       width="70.866127"
+       id="rect3913-3-4-1"
+       style="opacity:1;fill:#b0c4de;fill-opacity:1;stroke:#00008b;stroke-width:0.85039365;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+    <text
+       inkscape:export-filename="/home/pf/ownCloud/Notebooks/Work-MCU/700_mcu/img/modul_dma_pwm_01.png"
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       id="text7730-5-3-1-9-2-4-1-5"
+       y="109.87833"
+       x="714.8667"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:6.32125998px;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan13450-0-6"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:6.32125998px;font-family:Arial;-inkscape-font-specification:'Arial, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.75;stroke-opacity:1"
+         y="109.87833"
+         x="714.8667"
+         sodipodi:role="line">CNT counter</tspan></text>
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
+     x="108.6083"
+     y="81.433731"
+     id="text7730-5-3-1-9-5-1-6-9-2"
+     inkscape:export-xdpi="300"
+     inkscape:export-ydpi="300"
+     inkscape:export-filename="/home/pf/ownCloud/Notebooks/Work-MCU/700_mcu/img/modul_dma_pwm_01.png"><tspan
+       sodipodi:role="line"
+       id="tspan7728-2-0-5-2-7-6-0-9-5"
+       x="108.6083"
+       y="81.433731"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.99999952px;font-family:Arial;-inkscape-font-specification:'Arial Italic';fill:#ff0000;stroke-width:0.75">Counter</tspan></text>
+  <g
+     id="g3497"
+     transform="translate(-656.60592,-60.623068)">
+    <rect
+       inkscape:export-filename="/home/pf/ownCloud/Notebooks/Work-MCU/700_mcu/img/modul_dma_pwm_01.png"
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       ry="2.834631"
+       y="177.16536"
+       x="690.23621"
+       height="14.173222"
+       width="70.866127"
+       id="rect3913-3-4-8-5-0"
+       style="opacity:1;fill:#999999;fill-opacity:1;stroke:#999999;stroke-width:0.85039365;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal;filter:url(#filter16666-0)" />
+    <rect
+       inkscape:export-filename="/home/pf/ownCloud/Notebooks/Work-MCU/700_mcu/img/modul_dma_pwm_01.png"
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       ry="2.834631"
+       y="174.3307"
+       x="687.40155"
+       height="14.173222"
+       width="70.866127"
+       id="rect3913-3-4-8-8"
+       style="opacity:1;fill:#f6ffd5;fill-opacity:1;stroke:#668000;stroke-width:0.85039365;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+    <text
+       inkscape:export-filename="/home/pf/ownCloud/Notebooks/Work-MCU/700_mcu/img/modul_dma_pwm_01.png"
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       id="text7730-5-3-1-9-2-4-1-9-8"
+       y="184.99641"
+       x="721.95331"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:6.32125998px;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan13450-0-5-2"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:6.32125998px;font-family:Arial;-inkscape-font-specification:'Arial, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.75;stroke-opacity:1"
+         y="184.99641"
+         x="721.95331"
+         sodipodi:role="line">ARR register</tspan></text>
+  </g>
+  <g
+     id="g3491"
+     transform="translate(-636.76339,-52.119132)">
+    <rect
+       inkscape:export-filename="/home/pf/ownCloud/Notebooks/Work-MCU/700_mcu/img/modul_dma_pwm_01.png"
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       ry="2.834631"
+       y="144.56693"
+       x="667.55902"
+       height="14.173222"
+       width="70.866127"
+       id="rect3913-3-4-8-8-5"
+       style="opacity:1;fill:#f6ffd5;fill-opacity:1;stroke:#668000;stroke-width:0.85039365;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+    <text
+       inkscape:export-filename="/home/pf/ownCloud/Notebooks/Work-MCU/700_mcu/img/modul_dma_pwm_01.png"
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       id="text7730-5-3-1-9-2-4-1-9-8-8"
+       y="155.23264"
+       x="702.11078"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:6.32125998px;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan13450-0-5-2-5"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:6.32125998px;font-family:Arial;-inkscape-font-specification:'Arial, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.75;stroke-opacity:1"
+         y="155.23264"
+         x="702.11078"
+         sodipodi:role="line">ARR register</tspan></text>
+  </g>
+  <g
+     transform="translate(-458.18073,297.95958)"
+     id="g3510-5">
+    <path
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       inkscape:export-filename="/home/pf/ownCloud/Notebooks/Work-MCU/700_mcu/img/modul_dma_pwm_01.png"
+       sodipodi:nodetypes="cccccccc"
+       inkscape:connector-curvature="0"
+       id="path18796-0"
+       d="m 496.06297,170.07875 h 32.59843 v -49.6063 l -32.59843,1e-5 v 49.60629 h -14.17322 v -49.60629 h 14.17322"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.85039371;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+    <path
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       inkscape:export-filename="/home/pf/ownCloud/Notebooks/Work-MCU/700_mcu/img/modul_dma_pwm_01.png"
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path18798-7"
+       d="m 481.88975,134.64569 46.77165,-1e-5"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.85039371;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+    <path
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       inkscape:export-filename="/home/pf/ownCloud/Notebooks/Work-MCU/700_mcu/img/modul_dma_pwm_01.png"
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path18800-3"
+       d="m 481.88975,155.90553 46.77165,-1e-5"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.85039371;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+    <text
+       inkscape:export-filename="/home/pf/ownCloud/Notebooks/Work-MCU/700_mcu/img/modul_dma_pwm_01.png"
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       id="text7730-5-3-1-9-2-4-1-9-2-6-8"
+       y="131.60399"
+       x="488.5621"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:6.32125998px;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan13450-0-5-1-5-2"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;line-height:6.32125998px;font-family:Arial;-inkscape-font-specification:'Arial, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.75;stroke-opacity:1"
+         y="131.60399"
+         x="488.5621"
+         sodipodi:role="line">0</tspan></text>
+    <text
+       inkscape:export-filename="/home/pf/ownCloud/Notebooks/Work-MCU/700_mcu/img/modul_dma_pwm_01.png"
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       id="text7730-5-3-1-9-2-4-1-9-2-6-4-3"
+       y="131.81512"
+       x="511.37363"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:6.32125998px;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan13450-0-5-1-5-6-0"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;line-height:6.32125998px;font-family:Arial;-inkscape-font-specification:'Arial, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.75;stroke-opacity:1"
+         y="131.81512"
+         x="511.37363"
+         sodipodi:role="line">Data 0</tspan></text>
+    <text
+       inkscape:export-filename="/home/pf/ownCloud/Notebooks/Work-MCU/700_mcu/img/modul_dma_pwm_01.png"
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       id="text7730-5-3-1-9-2-4-1-9-2-6-42-7"
+       y="167.15211"
+       x="489.11584"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:6.32125998px;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan13450-0-5-1-5-5-7"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;line-height:6.32125998px;font-family:Arial;-inkscape-font-specification:'Arial, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.75;stroke-opacity:1"
+         y="167.15211"
+         x="489.11584"
+         sodipodi:role="line">n</tspan></text>
+    <text
+       inkscape:export-filename="/home/pf/ownCloud/Notebooks/Work-MCU/700_mcu/img/modul_dma_pwm_01.png"
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       id="text7730-5-3-1-9-2-4-1-9-2-6-4-1-7"
+       y="167.08905"
+       x="511.65872"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:6.32125998px;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan13450-0-5-1-5-6-6-6"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;line-height:6.32125998px;font-family:Arial;-inkscape-font-specification:'Arial, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.75;stroke-opacity:1"
+         y="167.08905"
+         x="511.65872"
+         sodipodi:role="line">Data n</tspan></text>
+  </g>
+  <g
+     transform="translate(-380.22799,-28.024654)"
+     id="g3574-0">
+    <path
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       inkscape:export-filename="/home/pf/ownCloud/Notebooks/Work-MCU/700_mcu/img/modul_dma_pwm_01.png"
+       inkscape:connector-curvature="0"
+       id="path20027-7-5-8"
+       d="m 418.11023,389.76378 h 56.69292"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#668000;stroke-width:0.5669291;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+    <path
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       inkscape:export-filename="/home/pf/ownCloud/Notebooks/Work-MCU/700_mcu/img/modul_dma_pwm_01.png"
+       inkscape:connector-curvature="0"
+       id="path20029-4-3-9"
+       d="m 425.19685,375.59055 v 14.17324"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#668000;stroke-width:0.5669291;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+    <path
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       inkscape:export-filename="/home/pf/ownCloud/Notebooks/Work-MCU/700_mcu/img/modul_dma_pwm_01.png"
+       inkscape:connector-curvature="0"
+       id="path20031-2-8-8"
+       d="m 439.37007,375.59055 v 14.17324"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#668000;stroke-width:0.5669291;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+    <path
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       inkscape:export-filename="/home/pf/ownCloud/Notebooks/Work-MCU/700_mcu/img/modul_dma_pwm_01.png"
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path20033-0-1-8"
+       d="m 453.5433,375.59055 v 14.17323"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#668000;stroke-width:0.5669291;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+    <path
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       inkscape:export-filename="/home/pf/ownCloud/Notebooks/Work-MCU/700_mcu/img/modul_dma_pwm_01.png"
+       inkscape:connector-curvature="0"
+       id="path20035-0-1-0"
+       d="m 467.71653,375.59055 v 14.17324"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#668000;stroke-width:0.5669291;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+    <text
+       inkscape:export-filename="/home/pf/ownCloud/Notebooks/Work-MCU/700_mcu/img/modul_dma_pwm_01.png"
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       id="text7730-5-3-1-9-5-1-5-7-3-3-3"
+       y="384.36038"
+       x="405.15152"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#668000;fill-opacity:1;stroke:none;stroke-width:0.75"
+       xml:space="preserve"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6px;font-family:Arial;-inkscape-font-specification:'Arial Italic';fill:#668000;stroke-width:0.75"
+         y="384.36038"
+         x="405.15152"
+         id="tspan7728-2-0-5-2-7-6-3-0-3-1-7"
+         sodipodi:role="line">2kHz</tspan></text>
+    <path
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       inkscape:export-filename="/home/pf/ownCloud/Notebooks/Work-MCU/700_mcu/img/modul_dma_pwm_01.png"
+       inkscape:connector-curvature="0"
+       id="path20175-9-5-0"
+       d="M 439.37007,394.01575 H 453.5433"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#668000;stroke-width:0.5669291;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#Arrow2Mstart-6-3-9);marker-end:url(#marker20185-0-2-1);paint-order:normal" />
+    <text
+       inkscape:export-filename="/home/pf/ownCloud/Notebooks/Work-MCU/700_mcu/img/modul_dma_pwm_01.png"
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       id="text7730-5-3-1-9-5-1-5-7-4-0-8-6"
+       y="401.48331"
+       x="438.33371"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#668000;fill-opacity:1;stroke:none;stroke-width:0.75"
+       xml:space="preserve"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6px;font-family:Arial;-inkscape-font-specification:'Arial Italic';fill:#668000;stroke-width:0.75"
+         y="401.48331"
+         x="438.33371"
+         id="tspan7728-2-0-5-2-7-6-3-0-9-4-1-9"
+         sodipodi:role="line">500us</tspan></text>
+    <path
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       inkscape:export-filename="/home/pf/ownCloud/Notebooks/Work-MCU/700_mcu/img/modul_dma_pwm_01.png"
+       inkscape:connector-curvature="0"
+       id="path38348-2"
+       d="m 425.19684,375.59056 h 4.25197 v 14.17323"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#668000;stroke-width:0.5669291;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+    <path
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       inkscape:export-filename="/home/pf/ownCloud/Notebooks/Work-MCU/700_mcu/img/modul_dma_pwm_01.png"
+       inkscape:connector-curvature="0"
+       id="path38350-1"
+       d="m 439.37007,375.59056 h 4.25197 v 14.17323 0 0"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#668000;stroke-width:0.5669291;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+    <path
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       inkscape:export-filename="/home/pf/ownCloud/Notebooks/Work-MCU/700_mcu/img/modul_dma_pwm_01.png"
+       inkscape:connector-curvature="0"
+       id="path38352-7"
+       d="m 453.54329,375.59056 h 4.25198 v 14.17323"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#668000;stroke-width:0.5669291;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+    <path
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       inkscape:export-filename="/home/pf/ownCloud/Notebooks/Work-MCU/700_mcu/img/modul_dma_pwm_01.png"
+       inkscape:connector-curvature="0"
+       id="path38354-7"
+       d="m 467.71652,375.59056 h 4.25197 v 14.17323"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#668000;stroke-width:0.5669291;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
+     x="102.04415"
+     y="357.1803"
+     id="text7730-5-3-1-9-5-1-6-9-2-9"
+     inkscape:export-xdpi="300"
+     inkscape:export-ydpi="300"
+     inkscape:export-filename="/home/pf/ownCloud/Notebooks/Work-MCU/700_mcu/img/modul_dma_pwm_01.png"><tspan
+       sodipodi:role="line"
+       id="tspan7728-2-0-5-2-7-6-0-9-5-7"
+       x="102.04415"
+       y="357.1803"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.99999952px;font-family:Arial;-inkscape-font-specification:'Arial Italic';fill:#ff0000;stroke-width:0.75">PWM Signal</tspan></text>
+  <g
+     id="g4195"
+     transform="translate(-564.47995,21.581633)">
+    <path
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       inkscape:export-filename="/home/pf/ownCloud/Notebooks/Work-MCU/700_mcu/img/modul_dma_pwm_01.png"
+       inkscape:connector-curvature="0"
+       id="path20027-8"
+       d="M 602.36218,375.59054 H 659.0551"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#668000;stroke-width:0.5669291;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+    <path
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       inkscape:export-filename="/home/pf/ownCloud/Notebooks/Work-MCU/700_mcu/img/modul_dma_pwm_01.png"
+       inkscape:connector-curvature="0"
+       id="path20029-0"
+       d="m 609.4488,361.41732 v 14.17324"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#668000;stroke-width:0.5669291;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+    <path
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       inkscape:export-filename="/home/pf/ownCloud/Notebooks/Work-MCU/700_mcu/img/modul_dma_pwm_01.png"
+       inkscape:connector-curvature="0"
+       id="path20031-24"
+       d="m 623.62202,361.41732 v 14.17324"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#668000;stroke-width:0.5669291;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+    <path
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       inkscape:export-filename="/home/pf/ownCloud/Notebooks/Work-MCU/700_mcu/img/modul_dma_pwm_01.png"
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path20033-9"
+       d="m 637.79525,361.41732 v 14.17322"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#668000;stroke-width:0.5669291;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+    <path
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       inkscape:export-filename="/home/pf/ownCloud/Notebooks/Work-MCU/700_mcu/img/modul_dma_pwm_01.png"
+       inkscape:connector-curvature="0"
+       id="path20035-01"
+       d="m 651.96848,361.41732 v 14.17324"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#668000;stroke-width:0.5669291;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+    <text
+       inkscape:export-filename="/home/pf/ownCloud/Notebooks/Work-MCU/700_mcu/img/modul_dma_pwm_01.png"
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       id="text7730-5-3-1-9-5-1-5-7-2"
+       y="370.32968"
+       x="587.55029"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#668000;fill-opacity:1;stroke:none;stroke-width:0.75"
+       xml:space="preserve"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6px;font-family:Arial;-inkscape-font-specification:'Arial Italic';fill:#668000;stroke-width:0.75"
+         y="370.32968"
+         x="587.55029"
+         id="tspan7728-2-0-5-2-7-6-3-0-0"
+         sodipodi:role="line">200Hz</tspan></text>
+    <path
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       inkscape:export-filename="/home/pf/ownCloud/Notebooks/Work-MCU/700_mcu/img/modul_dma_pwm_01.png"
+       inkscape:connector-curvature="0"
+       id="path20175-0"
+       d="m 623.62202,379.84251 h 14.17323"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#668000;stroke-width:0.5669291;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#Arrow2Mstart-5);marker-end:url(#marker20185-9);paint-order:normal" />
+    <text
+       inkscape:export-filename="/home/pf/ownCloud/Notebooks/Work-MCU/700_mcu/img/modul_dma_pwm_01.png"
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       id="text7730-5-3-1-9-5-1-5-7-4-6"
+       y="387.16751"
+       x="625.15167"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#668000;fill-opacity:1;stroke:none;stroke-width:0.75"
+       xml:space="preserve"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6px;font-family:Arial;-inkscape-font-specification:'Arial Italic';fill:#668000;stroke-width:0.75"
+         y="387.16751"
+         x="625.15167"
+         id="tspan7728-2-0-5-2-7-6-3-0-9-3"
+         sodipodi:role="line">5ms</tspan></text>
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
+     x="101.48409"
+     y="391.89957"
+     id="text7730-5-3-1-9-5-1-6-9-2-9-0"
+     inkscape:export-xdpi="300"
+     inkscape:export-ydpi="300"
+     inkscape:export-filename="/home/pf/ownCloud/Notebooks/Work-MCU/700_mcu/img/modul_dma_pwm_01.png"><tspan
+       sodipodi:role="line"
+       id="tspan7728-2-0-5-2-7-6-0-9-5-7-8"
+       x="101.48409"
+       y="391.89957"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.99999952px;font-family:Arial;-inkscape-font-specification:'Arial Italic';fill:#ff0000;stroke-width:0.75">Clock</tspan></text>
+  <circle
+     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:0.28346458;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+     id="path5640"
+     cx="37.882221"
+     cy="21.581654"
+     r="1.4173228" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
+     x="101.52051"
+     y="244.25227"
+     id="text7730-5-3-1-9-5-1-6-9-2-7"
+     inkscape:export-xdpi="300"
+     inkscape:export-ydpi="300"
+     inkscape:export-filename="/home/pf/ownCloud/Notebooks/Work-MCU/700_mcu/img/modul_dma_pwm_01.png"><tspan
+       sodipodi:role="line"
+       id="tspan7728-2-0-5-2-7-6-0-9-5-4"
+       x="101.52051"
+       y="244.25227"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.99999952px;font-family:Arial;-inkscape-font-specification:'Arial Italic';fill:#ff0000;stroke-width:0.75">Input / Output Pin</tspan></text>
+  <g
+     id="g6312"
+     transform="translate(-663.69255,92.447772)">
+    <path
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       inkscape:export-filename="/home/pf/ownCloud/Notebooks/Work-MCU/700_mcu/img/modul_dma_pwm_01.png"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:connector-curvature="0"
+       id="path17643-6"
+       d="m 744.09447,233.85828 -4.25197,7.08661 h -9.92126 l 4.25197,-7.08661 -4.25197,-7.08662 h 9.92126 z"
+       style="opacity:1;fill:#b3b3b3;fill-opacity:1;stroke:#000080;stroke-width:0.85039371;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path6308"
+       d="M 744.09447,233.85828 H 758.2677"
+       style="opacity:1;fill:#87decd;fill-opacity:1;stroke:#2d2c2b;stroke-width:0.85039371;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
+     x="34.106987"
+     y="342.74362"
+     id="text7730-5-3-1-9-5-1-6-9-2-7-1"
+     inkscape:export-xdpi="300"
+     inkscape:export-ydpi="300"
+     inkscape:export-filename="/home/pf/ownCloud/Notebooks/Work-MCU/700_mcu/img/modul_dma_pwm_01.png"><tspan
+       sodipodi:role="line"
+       id="tspan7728-2-0-5-2-7-6-0-9-5-4-3"
+       x="34.106987"
+       y="342.74362"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.99999952px;font-family:Arial;-inkscape-font-specification:'Arial Italic';fill:#ff0000;stroke-width:0.75">Internal terminal</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
+     x="101.29403"
+     y="159.75984"
+     id="text7730-5-3-1-9-5-1-6-9-2-7-8"
+     inkscape:export-xdpi="300"
+     inkscape:export-ydpi="300"
+     inkscape:export-filename="/home/pf/ownCloud/Notebooks/Work-MCU/700_mcu/img/modul_dma_pwm_01.png"><tspan
+       sodipodi:role="line"
+       id="tspan7728-2-0-5-2-7-6-0-9-5-4-7"
+       x="101.29403"
+       y="159.75984"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.99999952px;font-family:Arial;-inkscape-font-specification:'Arial Italic';fill:#ff0000;stroke-width:0.75">Block</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
+     x="108.1531"
+     y="123.1202"
+     id="text7730-5-3-1-9-5-1-6-9-2-7-9"
+     inkscape:export-xdpi="300"
+     inkscape:export-ydpi="300"
+     inkscape:export-filename="/home/pf/ownCloud/Notebooks/Work-MCU/700_mcu/img/modul_dma_pwm_01.png"><tspan
+       sodipodi:role="line"
+       id="tspan7728-2-0-5-2-7-6-0-9-5-4-38"
+       x="108.1531"
+       y="123.1202"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.99999952px;font-family:Arial;-inkscape-font-specification:'Arial Italic';fill:#ff0000;stroke-width:0.75">Shadow register</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
+     x="108.87118"
+     y="102.11259"
+     id="text7730-5-3-1-9-5-1-6-9-2-7-9-8"
+     inkscape:export-xdpi="300"
+     inkscape:export-ydpi="300"
+     inkscape:export-filename="/home/pf/ownCloud/Notebooks/Work-MCU/700_mcu/img/modul_dma_pwm_01.png"><tspan
+       sodipodi:role="line"
+       id="tspan7728-2-0-5-2-7-6-0-9-5-4-38-4"
+       x="108.87118"
+       y="102.11259"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.99999952px;font-family:Arial;-inkscape-font-specification:'Arial Italic';fill:#ff0000;stroke-width:0.75">Register</tspan></text>
+  <g
+     id="g10179"
+     transform="translate(-663.69255,21.581637)">
+    <path
+       inkscape:connector-curvature="0"
+       id="path6386"
+       d="m 701.57479,460.62993 14.17323,14.17322 v 28.34646 l -14.17323,14.17323 z"
+       style="opacity:1;fill:#ffeeaa;fill-opacity:1;stroke:#ff6600;stroke-width:0.85039371;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path6388"
+       d="m 715.74802,488.97638 h 14.17323"
+       style="opacity:1;fill:#ffeeaa;fill-opacity:1;stroke:#000000;stroke-width:0.85039377;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path6392"
+       d="M 701.57479,467.71654 H 687.40156"
+       style="opacity:1;fill:#ffeeaa;fill-opacity:1;stroke:#000000;stroke-width:0.85039377;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path6394"
+       d="M 701.57479,481.88977 H 687.40156"
+       style="opacity:1;fill:#ffeeaa;fill-opacity:1;stroke:#000000;stroke-width:0.85039377;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path6396"
+       d="M 701.57479,496.06299 H 687.40156"
+       style="opacity:1;fill:#ffeeaa;fill-opacity:1;stroke:#000000;stroke-width:0.85039377;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path6398"
+       d="M 701.57479,510.23623 H 687.40156"
+       style="opacity:1;fill:#ffeeaa;fill-opacity:1;stroke:#000000;stroke-width:0.85039377;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+  </g>
+  <g
+     id="g2779-0"
+     transform="translate(-656.60592,64.10132)">
+    <rect
+       inkscape:export-filename="/home/pf/ownCloud/Notebooks/Work-MCU/700_mcu/img/modul_dma_pwm_01.png"
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       ry="2.834631"
+       y="113.38584"
+       x="694.48816"
+       height="28.346457"
+       width="35.433071"
+       id="rect3913-4-52-0"
+       style="opacity:1;fill:#ffeeaa;fill-opacity:1;stroke:#ff6600;stroke-width:0.85039365;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+    <text
+       inkscape:export-filename="/home/pf/ownCloud/Notebooks/Work-MCU/700_mcu/img/modul_dma_pwm_01.png"
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       id="text7730-5-3-1-9-2-6-0-8"
+       y="125.17355"
+       x="711.69934"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:6.32125998px;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan3933-7-2-6"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:6.32125998px;font-family:Arial;-inkscape-font-specification:'Arial, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.75;stroke-opacity:1"
+         y="125.17355"
+         x="711.69934"
+         sodipodi:role="line">Input</tspan><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:6.32125998px;font-family:Arial;-inkscape-font-specification:'Arial, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.75;stroke-opacity:1"
+         y="136.98561"
+         x="711.69934"
+         sodipodi:role="line"
+         id="tspan6438">filter</tspan></text>
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
+     x="101.32644"
+     y="194.30228"
+     id="text7730-5-3-1-9-5-1-6-9-8"
+     inkscape:export-xdpi="300"
+     inkscape:export-ydpi="300"
+     inkscape:export-filename="/home/pf/ownCloud/Notebooks/Work-MCU/700_mcu/img/modul_dma_pwm_01.png"><tspan
+       sodipodi:role="line"
+       id="tspan7728-2-0-5-2-7-6-0-9-2"
+       x="101.32644"
+       y="194.30228"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.99999952px;font-family:Arial;-inkscape-font-specification:'Arial Italic';fill:#ff0000;stroke-width:0.75">Internal block</tspan></text>
+  <path
+     style="opacity:1;fill:none;fill-opacity:1;stroke:#668000;stroke-width:0.28346455;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker18212-0-6-8);paint-order:normal"
+     d="m 16.622394,390.08558 c -22.6771595,0 -21.2598395,-35.43307 0,-35.43307"
+     id="path18202-3-3-0"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cc"
+     inkscape:export-filename="/home/pf/ownCloud/Notebooks/Work-MCU/700_mcu/img/modul_dma_pwm_01.png"
+     inkscape:export-xdpi="300"
+     inkscape:export-ydpi="300" />
+  <path
+     style="fill:#2d2c2b;fill-rule:evenodd;stroke:#2d2c2b;stroke-width:0.85039991;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43299961"
+     d="m 44.968862,220.00683 c 0,-1.5652 -1.2694,-2.8346 -2.8347,-2.8346 -1.5653,0 -2.8346,1.2694 -2.8346,2.8346 0,1.5653 1.2693,2.8347 2.8346,2.8347 1.5653,0 2.8347,-1.2694 2.8347,-2.8347 z"
+     id="path1238-9-1-95-2"
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/home/pf/ownCloud/Notebooks/Work-MCU/700_mcu/img/modul_dma_pwm_01.png"
+     inkscape:export-xdpi="300"
+     inkscape:export-ydpi="300" />
+  <path
+     style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.85039365;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow2Mend-3-5-5);paint-order:normal"
+     d="m 30.795632,220.00683 h 63.77953"
+     id="path13482-6-9-6"
+     inkscape:connector-curvature="0"
+     inkscape:export-xdpi="300"
+     inkscape:export-ydpi="300"
+     inkscape:export-filename="/home/pf/ownCloud/Notebooks/Work-MCU/700_mcu/img/modul_dma_pwm_01.png"
+     sodipodi:nodetypes="cc" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
+     x="47.084682"
+     y="216.99387"
+     id="text7730-5-3-1-9-5-1-8"
+     inkscape:export-xdpi="300"
+     inkscape:export-ydpi="300"
+     inkscape:export-filename="/home/pf/ownCloud/Notebooks/Work-MCU/700_mcu/img/modul_dma_pwm_01.png"><tspan
+       sodipodi:role="line"
+       id="tspan7728-2-0-5-2-7-6-5"
+       x="47.084682"
+       y="216.99387"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.99999952px;font-family:Arial;-inkscape-font-specification:'Arial Italic';fill:#ff0000;stroke-width:0.75">CK_INT</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
+     x="102.50553"
+     y="221.61017"
+     id="text7730-5-3-1-9-5-1-6-9-8-2"
+     inkscape:export-xdpi="300"
+     inkscape:export-ydpi="300"
+     inkscape:export-filename="/home/pf/ownCloud/Notebooks/Work-MCU/700_mcu/img/modul_dma_pwm_01.png"><tspan
+       sodipodi:role="line"
+       id="tspan7728-2-0-5-2-7-6-0-9-2-8"
+       x="102.50553"
+       y="221.61017"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.99999952px;font-family:Arial;-inkscape-font-specification:'Arial Italic';fill:#ff0000;stroke-width:0.75">Signal</tspan></text>
+  <path
+     style="opacity:1;fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:0.85039365;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1.70078745, 3.40157488;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker16024-3);paint-order:normal"
+     d="m 37.882244,41.424173 c 22.67716,-5.669292 24.09448,4.251967 53.85826,-2.834646"
+     id="path10614-7"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cc"
+     inkscape:export-xdpi="300"
+     inkscape:export-ydpi="300"
+     inkscape:export-filename="/home/pf/ownCloud/Notebooks/Work-MCU/700_mcu/img/modul_dma_pwm_01.png" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.75"
+     x="54.658405"
+     y="37.634628"
+     id="text7730-5-3-1-9-5-8"
+     inkscape:export-xdpi="300"
+     inkscape:export-ydpi="300"
+     inkscape:export-filename="/home/pf/ownCloud/Notebooks/Work-MCU/700_mcu/img/modul_dma_pwm_01.png"><tspan
+       sodipodi:role="line"
+       id="tspan7728-2-0-5-2-7-7"
+       x="54.658405"
+       y="37.634628"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.99999952px;font-family:Arial;-inkscape-font-specification:'Arial Italic';fill:#0000ff;stroke-width:0.75">Event</tspan></text>
+  <circle
+     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#0000ff;stroke-width:0.28346455;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+     id="path5640-2"
+     cx="37.882221"
+     cy="41.424168"
+     r="1.4173226" />
+  <g
+     id="g8326">
+    <path
+       sodipodi:nodetypes="ccccc"
+       style="fill:#55ddff;stroke:#2d2c2b;stroke-width:0.85039991;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43299961"
+       d="M 44.96885,269.61314 V 255.43991 H 30.79562 v 14.17323 z"
+       id="path186-5-7"
+       inkscape:connector-curvature="0" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path7963-4"
+       d="M 30.79562,269.61314 44.96885,255.43991"
+       style="fill:#ffaaaa;stroke:#000000;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path7965-1"
+       d="m 30.79562,255.43991 14.17323,14.17323"
+       style="fill:#ffaaaa;stroke:#000000;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="cc"
+       style="fill:#87decd;fill-rule:evenodd;stroke:#2d2c2b;stroke-width:0.85039991;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43299961"
+       d="M 59.14209,262.52652 H 44.96886"
+       id="path184-4-7-9-7"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3178"
+       d="m 59.142088,262.52652 -5.669291,2.83465 v -5.66929 z"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.85039371;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43299961;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+  </g>
+  <g
+     id="g8333">
+    <path
+       sodipodi:nodetypes="cc"
+       style="fill:#87decd;fill-rule:evenodd;stroke:#2d2c2b;stroke-width:0.85039991;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43299961"
+       d="M 80.40195,262.52653 H 66.22872"
+       id="path184-4-7-9"
+       inkscape:connector-curvature="0" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       style="fill:#55ddff;stroke:#2d2c2b;stroke-width:0.85039991;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43299961"
+       d="m 80.40195,269.61315 v -14.17323 h 14.17323 v 14.17323 z"
+       id="path186-5-7-1"
+       inkscape:connector-curvature="0" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path7963-4-3"
+       d="M 94.57518,269.61315 80.40195,255.43992"
+       style="fill:#87decd;stroke:#000000;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path7965-1-8"
+       d="M 94.57518,255.43992 80.40195,269.61315"
+       style="fill:#87decd;stroke:#000000;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3178-7"
+       d="m 80.40193,262.52651 -5.669291,2.83465 v -5.66929 z"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.85039371;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43299961;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+  </g>
+  <g
+     id="g3265">
+    <path
+       sodipodi:nodetypes="ccccc"
+       style="fill:#ffaaaa;stroke:#2d2c2b;stroke-width:0.85039991;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43299961"
+       d="m 44.968862,248.35329 v -14.17323 h -14.17323 v 14.17323 z"
+       id="path186-5-7-5"
+       inkscape:connector-curvature="0" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path7963-4-4"
+       d="m 30.795632,248.35329 14.17323,-14.17323"
+       style="fill:#ffaaaa;stroke:#000000;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path7965-1-81"
+       d="m 30.795632,234.18006 14.17323,14.17323"
+       style="fill:#ffaaaa;stroke:#000000;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="cc"
+       style="fill:#87decd;fill-rule:evenodd;stroke:#2d2c2b;stroke-width:0.85039991;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43299961"
+       d="M 59.142103,241.26667 H 44.968873"
+       id="path184-4-7-9-7-2"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     id="g3271">
+    <path
+       sodipodi:nodetypes="cc"
+       style="fill:#87decd;fill-rule:evenodd;stroke:#2d2c2b;stroke-width:0.85039991;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43299961"
+       d="M 80.40193,241.26667 H 66.228699"
+       id="path184-4-7-9-9"
+       inkscape:connector-curvature="0" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       style="fill:#87decd;stroke:#2d2c2b;stroke-width:0.85039991;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43299961"
+       d="m 80.40193,248.35329 v -14.17323 h 14.173231 v 14.17323 z"
+       id="path186-5-7-1-3"
+       inkscape:connector-curvature="0" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path7963-4-3-6"
+       d="M 94.575161,248.35329 80.40193,234.18006"
+       style="fill:#87decd;stroke:#000000;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path7965-1-8-8"
+       d="M 94.575161,234.18006 80.40193,248.35329"
+       style="fill:#87decd;stroke:#000000;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  </g>
+  <g
+     id="g3312"
+     transform="translate(1.0246038e-7,42.519682)">
+    <path
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       inkscape:export-filename="/home/pf/ownCloud/Notebooks/Work-MCU/700_mcu/img/modul_dma_pwm_01.png"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:connector-curvature="0"
+       id="path17643-6-0"
+       d="m 59.14209,283.78636 -4.25197,7.08661 h -9.92126 l 4.25197,-7.08661 -4.25197,-7.08662 h 9.92126 z"
+       style="opacity:1;fill:#b3b3b3;fill-opacity:1;stroke:#000080;stroke-width:0.85039371;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path6308-5"
+       d="M 30.795632,283.78636 H 49.22083"
+       style="opacity:1;fill:#87decd;fill-opacity:1;stroke:#2d2c2b;stroke-width:0.85039371;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:6.32125998px;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75;stroke-opacity:1"
+     x="15.163822"
+     y="266.04434"
+     id="text7730-5-3-1-9-2-4-1-9-8-8-0"
+     inkscape:export-xdpi="300"
+     inkscape:export-ydpi="300"
+     inkscape:export-filename="/home/pf/ownCloud/Notebooks/Work-MCU/700_mcu/img/modul_dma_pwm_01.png"><tspan
+       sodipodi:role="line"
+       x="15.163822"
+       y="266.04434"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:6.32125998px;font-family:Arial;-inkscape-font-specification:'Arial, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.75;stroke-opacity:1"
+       id="tspan13450-0-5-2-5-8">PC13</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.00000191px;line-height:6.32125998px;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75;stroke-opacity:1"
+     x="14.048044"
+     y="329.43732"
+     id="text7730-5-3-1-9-2-4-1-9-8-8-0-6"
+     inkscape:export-xdpi="300"
+     inkscape:export-ydpi="300"
+     inkscape:export-filename="/home/pf/ownCloud/Notebooks/Work-MCU/700_mcu/img/modul_dma_pwm_01.png"><tspan
+       sodipodi:role="line"
+       x="14.048044"
+       y="329.43732"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:6.32125998px;font-family:Arial;-inkscape-font-specification:'Arial, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.75;stroke-opacity:1"
+       id="tspan13450-0-5-2-5-8-4">RCC</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.00000191px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
+     x="76.173874"
+     y="445.04306"
+     id="text7730-5-3-1-9-5-1-6-9-2-9-0-6"
+     inkscape:export-xdpi="300"
+     inkscape:export-ydpi="300"
+     inkscape:export-filename="/home/pf/ownCloud/Notebooks/Work-MCU/700_mcu/img/modul_dma_pwm_01.png"><tspan
+       sodipodi:role="line"
+       id="tspan7728-2-0-5-2-7-6-0-9-5-7-8-2"
+       x="76.173874"
+       y="445.04306"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:Arial;-inkscape-font-specification:'Arial Italic';fill:#ff0000;stroke-width:0.75">MEM Data</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.00000191px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
+     x="71.637825"
+     y="513.92676"
+     id="text7730-5-3-1-9-5-1-6-9-2-9-0-6-5"
+     inkscape:export-xdpi="300"
+     inkscape:export-ydpi="300"
+     inkscape:export-filename="/home/pf/ownCloud/Notebooks/Work-MCU/700_mcu/img/modul_dma_pwm_01.png"><tspan
+       sodipodi:role="line"
+       id="tspan7728-2-0-5-2-7-6-0-9-5-7-8-2-8"
+       x="71.637825"
+       y="513.92676"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:Arial;-inkscape-font-specification:'Arial Italic';fill:#ff0000;stroke-width:0.75">MPX</tspan></text>
+  <g
+     id="g8319">
+    <path
+       sodipodi:nodetypes="cc"
+       style="fill:#87decd;fill-rule:evenodd;stroke:#2d2c2b;stroke-width:0.85039991;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43299961"
+       d="M 80.401932,283.78636 H 66.228702"
+       id="path184-4-7-9-2"
+       inkscape:connector-curvature="0" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       style="fill:#2a7fff;stroke:#2d2c2b;stroke-width:0.85039991;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43299961"
+       d="m 80.401932,290.87298 v -14.17323 h 14.17323 v 14.17323 z"
+       id="path186-5-7-1-1"
+       inkscape:connector-curvature="0" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path7963-4-3-2"
+       d="M 94.575162,290.87298 80.401932,276.69975"
+       style="fill:#87decd;stroke:#000000;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path7965-1-8-0"
+       d="m 94.575162,276.69975 -14.17323,14.17323"
+       style="fill:#87decd;stroke:#000000;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3178-7-7"
+       d="m 80.401912,283.78634 -5.669291,2.83465 v -5.66929 z"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.85039371;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43299961;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.00000191px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
+     x="102.33447"
+     y="264.61249"
+     id="text7730-5-3-1-9-5-1-6-9-8-2-9"
+     inkscape:export-xdpi="300"
+     inkscape:export-ydpi="300"
+     inkscape:export-filename="/home/pf/ownCloud/Notebooks/Work-MCU/700_mcu/img/modul_dma_pwm_01.png"><tspan
+       sodipodi:role="line"
+       id="tspan7728-2-0-5-2-7-6-0-9-2-8-1"
+       x="102.33447"
+       y="264.61249"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:Arial;-inkscape-font-specification:'Arial Italic';fill:#ff0000;stroke-width:0.75">Digital</tspan></text>
+  <g
+     id="g8298">
+    <path
+       sodipodi:nodetypes="ccccc"
+       style="fill:#ffccaa;stroke:#2d2c2b;stroke-width:0.85039991;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43299961"
+       d="m 44.968831,312.13281 v -14.17323 h -14.17323 v 14.17323 z"
+       id="path186-5-7-8"
+       inkscape:connector-curvature="0" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path7963-4-8"
+       d="m 30.795601,312.13281 14.17323,-14.17323"
+       style="fill:#ffccaa;stroke:#000000;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path7965-1-0"
+       d="m 30.795601,297.95958 14.17323,14.17323"
+       style="fill:#ffaaaa;stroke:#000000;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="cc"
+       style="fill:#87decd;fill-rule:evenodd;stroke:#2d2c2b;stroke-width:0.85039991;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43299961"
+       d="M 59.142072,305.04619 H 44.968842"
+       id="path184-4-7-9-7-3"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3178-70"
+       d="m 59.14207,305.04619 -5.669291,2.83465 v -5.66929 z"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.85039371;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43299961;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+  </g>
+  <g
+     id="g8305">
+    <path
+       sodipodi:nodetypes="cc"
+       style="fill:#87decd;fill-rule:evenodd;stroke:#2d2c2b;stroke-width:0.85039991;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43299961"
+       d="M 80.401932,305.0462 H 66.228702"
+       id="path184-4-7-9-6"
+       inkscape:connector-curvature="0" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       style="fill:#ffccaa;stroke:#2d2c2b;stroke-width:0.85039991;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43299961"
+       d="m 80.401932,312.13282 v -14.17323 h 14.173231 v 14.17323 z"
+       id="path186-5-7-1-9"
+       inkscape:connector-curvature="0" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path7963-4-3-21"
+       d="M 94.575163,312.13282 80.401932,297.95959"
+       style="fill:#87decd;stroke:#000000;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path7965-1-8-7"
+       d="M 94.575163,297.95959 80.401932,312.13282"
+       style="fill:#87decd;stroke:#000000;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3178-7-79"
+       d="m 80.401912,305.04618 -5.669291,2.83465 v -5.66929 z"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.85039371;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43299961;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.00000191px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
+     x="102.33446"
+     y="307.13217"
+     id="text7730-5-3-1-9-5-1-6-9-8-2-9-7"
+     inkscape:export-xdpi="300"
+     inkscape:export-ydpi="300"
+     inkscape:export-filename="/home/pf/ownCloud/Notebooks/Work-MCU/700_mcu/img/modul_dma_pwm_01.png"><tspan
+       sodipodi:role="line"
+       id="tspan7728-2-0-5-2-7-6-0-9-2-8-1-6"
+       x="102.33446"
+       y="307.13217"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:Arial;-inkscape-font-specification:'Arial Italic';fill:#ff0000;stroke-width:0.75">Analog</tspan></text>
+  <g
+     id="g8312">
+    <path
+       sodipodi:nodetypes="cc"
+       style="fill:#87decd;fill-rule:evenodd;stroke:#2d2c2b;stroke-width:0.85039991;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43299961"
+       d="M 44.968862,283.78636 H 30.795632"
+       id="path184-4-7-9-2-3"
+       inkscape:connector-curvature="0" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       style="fill:#d5e5ff;stroke:#2d2c2b;stroke-width:0.85039991;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43299961"
+       d="m 44.968862,290.87298 v -14.17323 h 14.173231 v 14.17323 z"
+       id="path186-5-7-1-1-6"
+       inkscape:connector-curvature="0" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path7963-4-3-2-4"
+       d="M 59.142093,290.87298 44.968862,276.69975"
+       style="fill:#87decd;stroke:#000000;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path7965-1-8-0-3"
+       d="M 59.142093,276.69975 44.968862,290.87298"
+       style="fill:#87decd;stroke:#000000;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3178-7-7-1"
+       d="m 44.968842,283.78634 -5.669291,2.83465 v -5.66929 z"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.85039371;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43299961;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.00000191px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
+     x="102.39556"
+     y="286.07391"
+     id="text7730-5-3-1-9-5-1-6-9-8-2-9-7-4"
+     inkscape:export-xdpi="300"
+     inkscape:export-ydpi="300"
+     inkscape:export-filename="/home/pf/ownCloud/Notebooks/Work-MCU/700_mcu/img/modul_dma_pwm_01.png"><tspan
+       sodipodi:role="line"
+       id="tspan7728-2-0-5-2-7-6-0-9-2-8-1-6-3"
+       x="102.39556"
+       y="286.07391"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:Arial;-inkscape-font-specification:'Arial Italic';fill:#ff0000;stroke-width:0.75">Pull Down</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.00000191px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
+     x="2.0283346"
+     y="286.10446"
+     id="text7730-5-3-1-9-5-1-6-9-8-2-9-7-4-3"
+     inkscape:export-xdpi="300"
+     inkscape:export-ydpi="300"
+     inkscape:export-filename="/home/pf/ownCloud/Notebooks/Work-MCU/700_mcu/img/modul_dma_pwm_01.png"><tspan
+       sodipodi:role="line"
+       id="tspan7728-2-0-5-2-7-6-0-9-2-8-1-6-3-2"
+       x="2.0283346"
+       y="286.10446"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:Arial;-inkscape-font-specification:'Arial Italic';fill:#ff0000;stroke-width:0.75">Pull Up</tspan></text>
+</svg>
